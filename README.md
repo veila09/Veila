@@ -61,7 +61,7 @@ frameborder="0" allowfullscreen></iframe>>
   </div>
 
   <footer>
-    &copy; 2025 TutorialHijab.yt:yaymutiara | Ikuti kami di Instagram: @veilacollection
+    &copy; 2025 TutorialHijabyt:yaymutiara | Ikuti kami di Instagram: @veilacollection
   </footer>
 
 </body>
